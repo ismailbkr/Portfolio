@@ -196,8 +196,8 @@ export default function Home() {
                   </div>
                   <div>
                     <h4 className="text-lg font-semibold text-main dark:text-white">LinkedIn</h4>
-                    <a href="https://linkedin.com/in/ismail-bakir/" target="_blank" rel="noopener noreferrer" className="text-main hover:text-accent dark:text-gray-300 dark:hover:text-blue-400">
-                      linkedin.com/ismailbakir
+                    <a href="https://linkedin.com/in/ismail-bakır/" target="_blank" rel="noopener noreferrer" className="text-main hover:text-accent dark:text-gray-300 dark:hover:text-blue-400">
+                      linkedin.com/in/ismail-bakır
                     </a>
                   </div>
                 </div>
